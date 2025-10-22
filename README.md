@@ -5,5 +5,3 @@
 ![1536](https://raw.githubusercontent.com/moneyworldstar/1536-bot/refs/heads/main/1536.png)
 
 
-
-https://raw.githubusercontent.com/moneyworldstar/1536-bot/refs/heads/main/1536.png
